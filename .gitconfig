@@ -1,6 +1,7 @@
 [user]
 	name = Mark McConachie
 	email = mark@mcconachie.me
+	signingkey = A40F125C467ACFE8
 [core]
 	editor = vim
 	whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
@@ -26,5 +27,5 @@
 	untracked = red bold
 
 [alias]
-	c = commit
+	c = commit -S
 	st = status
