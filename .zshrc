@@ -1,2 +1,1 @@
-# Manage dotfiles in home dir inside a bare git repo in ~/.dotfiles
-alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+for config_file ($HOME/.zsh/lib/*.zsh) source $config_file
