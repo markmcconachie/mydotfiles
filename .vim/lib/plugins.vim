@@ -10,5 +10,6 @@ Plug 'dhruvasagar/vim-table-mode'
 
 " Language Support
 Plug 'sirtaj/vim-openscad'
+Plug 'kmyk/sdl2.vim'
 
 call plug#end()

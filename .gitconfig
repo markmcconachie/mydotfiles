@@ -29,3 +29,5 @@
 [alias]
 	c = commit -S
 	st = status
+	aa = add -A
+  pu = push  
