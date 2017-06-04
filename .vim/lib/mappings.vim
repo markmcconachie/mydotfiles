@@ -24,3 +24,7 @@ nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 nnoremap <C-h> <C-w>h
 nnoremap <C-l> <C-w>l
+
+
+nnoremap <leader>y "*y
+nnoremap <leader>p "*p

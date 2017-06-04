@@ -1,3 +1,6 @@
 [submodule "/home/mark/.zplug"]
 	path = /home/mark/.zplug
 	url = git@github.com:zplug/zplug.git
+[submodule "/home/mark/.tmux/plugins/tpm"]
+	path = /home/mark/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
