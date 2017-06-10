@@ -31,3 +31,4 @@
 	st = status
 	aa = add -A
   pu = push  
+  pom = push origin master 

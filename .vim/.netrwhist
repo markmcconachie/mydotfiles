@@ -1,6 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/mark/.vim'
-let g:netrw_dirhist_2='/home/mark/.vim/plugged'
-let g:netrw_dirhist_3='/home/mark/.vim'
-let g:netrw_dirhist_4='/home/mark/.vim/colors'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/mark/src/known_hosts/build/CMakeFiles'
+let g:netrw_dirhist_2='/home/mark/src/known_hosts/build'
+let g:netrw_dirhist_3='/home/mark/src/known_hosts'
+let g:netrw_dirhist_4='/home/mark/src/known_hosts/src'
+let g:netrw_dirhist_5='/home/mark/src/ios'
+let g:netrw_dirhist_6='/home/mark/gamedev/villain'
+let g:netrw_dirhist_7='/home/mark/gamedev/villain/assets'
+let g:netrw_dirhist_8='/home/mark/gamedev/villain/assets/scenes'
+let g:netrw_dirhist_9='/home/mark/gamedev/villain/assets'

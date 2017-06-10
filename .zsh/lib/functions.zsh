@@ -5,3 +5,7 @@ typeset -U fpath
 
 autoload -U compinit
 compinit
+
+autoload -U zmv
+autoload -U zrecompile
+
